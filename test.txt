@@ -2,3 +2,4 @@ add some text
 add some local text
 add some remote text
 add some texts on master
+https://openexchangerates.org/api/latest.json?app_id=1bdf148c17cd4b939a2e8facf31033e8
